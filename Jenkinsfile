@@ -3,10 +3,8 @@ pipeline{
     stages{
         stage('test pipeline'){
             steps{
-                echo 'Testing the application hehe ...'
+                echo 'Hello World from github push event'
             }
         }
-
     }
 }
-//teststs
