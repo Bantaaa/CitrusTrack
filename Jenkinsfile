@@ -6,5 +6,6 @@ pipeline{
                 echo 'Testing the application hehe ...'
             }
         }
-        
+
     }
+}
